@@ -1,0 +1,67 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "Jhulio",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você veio 2!",
+      "autoria": "Jhulio",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Sou bom em programação ",
+      "autoria": "Jhulio Gabriel",
+      "modelo": "modelo2",
+      "id": 3,
+      "favorito": false
+    },
+    {
+      "conteudo": "Pensamento 2",
+      "autoria": "fonte1",
+      "modelo": "modelo2",
+      "id": 4,
+      "favorito": true
+    },
+    {
+      "conteudo": "Criando um novo pensamento",
+      "autoria": "aaaaaaa",
+      "modelo": "modelo1",
+      "id": 5,
+      "favorito": false
+    },
+    {
+      "conteudo": "Criando um novo pensamento",
+      "autoria": "aaaaaaa",
+      "modelo": "modelo3",
+      "id": 6,
+      "favorito": false
+    },
+    {
+      "conteudo": "Criando um novo pensamento",
+      "autoria": "aaaaaaa",
+      "modelo": "modelo2",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "Criando um novo pensamento",
+      "autoria": "aaaaaaa",
+      "modelo": "modelo2",
+      "id": 8,
+      "favorito": false
+    },
+    {
+      "conteudo": "Criando um novo pensamento",
+      "autoria": "aaaaaaa",
+      "modelo": "modelo1",
+      "id": 9,
+      "favorito": false
+    }
+  ]
+}
